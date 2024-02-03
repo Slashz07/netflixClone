@@ -1,1 +1,1 @@
-Its a responsive frontend clone of 
+Its a responsive frontend clone of netflix
